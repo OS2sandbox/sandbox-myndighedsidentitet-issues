@@ -16,7 +16,7 @@ subgraph KOMBIT
 fkadg[" ⚙️Fælleskommunal Adgangsstyring"]
 end
 
-KK-->|🆔 ??|KOMBIT-->|🆔 Identities/Metadata - SAML|OS2ID-->|🆔OIDC - JWT|Applikation
+KK-->|"🆔"|KOMBIT-->|"🆔 Identities/Metadata - SAML"|OS2ID-->|"🆔OIDC - JWT"|Applikation
 
-user(user👩🏻‍💻)-->|🆔Login|Applikation
+user("user👩🏻‍💻")-->|"🆔Login"|Applikation
 ```
