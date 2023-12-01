@@ -25,7 +25,8 @@ Det medfører at løsningen er fleksibel, skalerbar og klar til at tackle fremti
 ### Following open standards
 🇩🇰 [Read in danish](#-os2id---identitets--og-adgangsstyring)
 
-### Purpose The OS2ID project is a modern identity and access management project, built for the cloud. It was initiated by the OS2 Community in collaboration with the supplier Semaphor. The primary purpose of the project is to provide Single Sign-On (SSO) across a range of OS2-delivered services for knowledge sharing and documentation.
+### Purpose 
+The OS2ID project is a modern identity and access management project, built for the cloud. It was initiated by the OS2 Community in collaboration with the supplier Semaphor. The primary purpose of the project is to provide Single Sign-On (SSO) across a range of OS2-delivered services for knowledge sharing and documentation.
 
 ### Work Process
 The development of OS2ID is open and fully transparent. Everyone can gain insight into the project, and everyone is welcome to contribute. Contributions follow the standard Github flow - create an issue and/or offer a contribution via a Pull Request.
