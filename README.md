@@ -1,7 +1,9 @@
 # 🎭 os2ID
 ### Identity management based on open standards
 
-:books: Documentation:
+📚 Documentation:
+
+[Project description (both in en🇬🇧 and dk🇩🇰)](/docs/project_description.md)
 
 [High level architecture proposal](/docs/High_Level_Architecture.md)
 
