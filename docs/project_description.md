@@ -2,7 +2,7 @@
 🇬🇧 [Read in english](#-os2id---identity-and-accessmanagent)
 
 ### Formål
-OS2ID-projektet er et moderne, cloud-native identitets- og adgangsstyringsprojekt. Det er startet af OS2 Fællesskabet i samarbejde med leverandøren Semaphor. Projektets primære formål er at levere Single Sign-On (SSO) på en række OS2-leverede tjenester til vidensdeling og dokumentation.
+OS2ID-projektet er et moderne identitets- og adgangsstyringsprojekt, bygget til skyen. Det er startet af OS2 Fællesskabet i samarbejde med leverandøren Semaphor. Projektets primære formål er at levere Single Sign-On (SSO) på en række OS2-leverede tjenester til vidensdeling og dokumentation.
 
 ### Arbejdsproces
 Udviklingen af OS2ID foregår åbent og med fuld transparens. Alle kan få indsigt i projektet, og alle er velkomne til at bidrage. Bidrag følger standard Github-flowet - opret et issue og/eller tilbyd et bidrag via en Pull Request.
@@ -11,7 +11,7 @@ Udviklingen af OS2ID foregår åbent og med fuld transparens. Alle kan få indsi
 OS2ID integreres med fælleskommunal adgangsstyring og tilbyder OS2-medlemmer adgang til de tjenester og webapps, som OS2 stiller til rådighed for fællesskabet. Alt dette med Single Sign On via deres kendte myndighedslogin.
 
 ## Hvorfor en ny løsning?
-Efter gennemgang af en række eksisterende løsninger indenfor og udenfor OS2-fællesskabet, stod det klart, at der ikke var nogle eksisterende løsninger, der var sammensat som løskoblede og genbrugelige løsninger med lavt vedligehold. Målet var at bidrage til Open Source og genbruge komponenter, der overholdt en løskoblet, cloud-native, skalerbar løsningsarkitektur uden at skulle udvikle nyt middleware eller tilføje egne hjemmelavede services med et tungt efterfølgende vedligehold.
+Efter gennemgang af en række eksisterende løsninger indenfor og udenfor OS2-fællesskabet, stod det klart, at der ikke var nogle eksisterende løsninger, der var sammensat som løskoblede og genbrugelige løsninger med lavt vedligehold. Målet var at bidrage til Open Source og genbruge komponenter, der overholdt en løskoblet, bygget til skyen, skalerbar løsningsarkitektur uden at skulle udvikle nyt middleware eller tilføje egne hjemmelavede services med et tungt efterfølgende vedligehold.
 Der var også i arkitekturarbejdet stort fokus på at sammensætte en fremtidssikret og standardiseret løsning, der kunne levere SSO via standardteknologier og protokoller.
 
 ### Potentialer
