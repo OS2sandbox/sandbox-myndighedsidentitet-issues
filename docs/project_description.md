@@ -1,5 +1,5 @@
 # 🪪 OS2ID - Identitets- og Adgangsstyring
-🇬🇧 [Read in english](#🪪-os2id---identity-and-accessmanagent)
+🇬🇧 [Read in english](#-os2id---identity-and-accessmanagent)
 
 ### Formål
 OS2ID-projektet er et moderne, cloud-native identitets- og adgangsstyringsprojekt. Det er startet af OS2 Fællesskabet i samarbejde med leverandøren Semaphor. Projektets primære formål er at levere Single Sign-On (SSO) på en række OS2-leverede tjenester til vidensdeling og dokumentation.
@@ -21,7 +21,7 @@ Ved at bruge moderne åbne standarder som Oauth2.0, SAML2.0 og OpenID Connect, s
 
 # 🪪 OS2ID - Identity and accessmanagent
 ### Following open standards
-🇩🇰 [Read in danish](#🪪-os2id---identitets--og-adgangsstyring)
+🇩🇰 [Read in danish](#-os2id---identitets--og-adgangsstyring)
 
 ### Purpose
 The OS2ID project is a modern, cloud-native identity and access management project. It was started by the OS2 Community in collaboration with the supplier Semaphor. The primary purpose of the project is to provide Single Sign-On (SSO) for a range of OS2-provided services for knowledge sharing and documentation.
