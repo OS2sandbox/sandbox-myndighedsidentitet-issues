@@ -10,9 +10,8 @@ Udviklingen af OS2ID foregår åbent og med fuld transparens. Alle kan få indsi
 ### Understøttelse af OS2 fællesskabet
 OS2ID integreres med fælleskommunal adgangsstyring og tilbyder OS2-medlemmer adgang til de tjenester og webapps, som OS2 stiller til rådighed for fællesskabet. Alt dette med Single Sign On via deres kendte myndighedslogin.
 
-## Hvorfor en ny løsning?
-Efter gennemgang af en række eksisterende løsninger indenfor og udenfor OS2-fællesskabet, stod det klart, at der ikke var nogle eksisterende løsninger, der var sammensat som løskoblede og genbrugelige løsninger med lavt vedligehold. Målet var at bidrage til Open Source og genbruge komponenter, der overholdt en løskoblet, bygget til skyen, skalerbar løsningsarkitektur uden at skulle udvikle nyt middleware eller tilføje egne hjemmelavede services med et tungt efterfølgende vedligehold.
-Der var også i arkitekturarbejdet stort fokus på at sammensætte en fremtidssikret og standardiseret løsning, der kunne levere SSO via standardteknologier og protokoller.
+### Hvorfor en ny løsning?
+Efter gennemgang af en række eksisterende løsninger indenfor og udenfor OS2-fællesskabet, stod det klart, at der ikke var nogle eksisterende løsninger, der var sammensat som løskoblede og genbrugelige løsninger med lavt vedligehold. Målet var at bidrage til Open Source og genbruge komponenter, der overholdt en løskoblet, bygget til skyen, skalerbar løsningsarkitektur uden at skulle udvikle nyt middleware eller tilføje egne hjemmelavede services med et tungt efterfølgende vedligehold. Der var også i arkitekturarbejdet stort fokus på at sammensætte en fremtidssikret og standardiseret løsning, der kunne levere SSO via standardteknologier og protokoller.
 
 ### Potentialer
 Ved at bruge moderne åbne standarder som Oauth2.0, SAML2.0 og OpenID Connect, sikrer vi, at vores løsning er kompatibel med en bred vifte af platforme og teknologier, og at SSO kan tilvælges og genbruges i flere Os2-produkter, hvis dette ønskes. Med en åben standardbase kan OS2ID tilpasses og udvides af fællesskabet for at imødekomme fremtidige behov og udfordringer. 
