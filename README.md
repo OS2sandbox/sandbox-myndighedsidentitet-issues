@@ -1,13 +1,19 @@
 # 🪪 os2ID
 ### Identity management based on open standards
 
-📚 Documentation:
+A modern identity and access management project, built for the cloud that provides Single Sign-On across OS2 delivered web-services.
 
-[Project description (both in en🇬🇧 and dk🇩🇰)](/docs/project_description.md)
+## 📚 Documentation
 
-[High level architecture proposal](/docs/High_Level_Architecture.md)
+#### 🗂️ Project description:
+  [🇬🇧 in english](/docs/project_description.md#-os2id---identity-and-accessmanagent)
+  
+  [🇩🇰 in danish](/docs/project_description.md#-os2id---identitets--og-adgangsstyring)
+  
+  [🧩 High level architecture](/docs/High_Level_Architecture.md)
+  
+  [🔀 Dataflow](/docs/Dataflow_component_architecture.md)
 
-[Dataflow component architecture](/docs/Dataflow_component_architecture.md)
 
 ---
 🎁 [How to contribute](CONTRIBUTING.md)
