@@ -1,6 +1,8 @@
 # 🪪 os2ID
 ### Identity management based on open standards
 
+A modern identity and access management project, built for the cloud that provides Single Sign-On across OS2 delivered web-services.
+
 ## 📚 Documentation
 
 #### 🗂️ Project description:
