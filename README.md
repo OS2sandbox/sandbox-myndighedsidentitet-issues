@@ -34,13 +34,12 @@ UserStore-.-|"🆔+🏷️"|fkadg
 
 ## 📚 Documentation
 
-#### 🗂️ Project description:
-  [🇬🇧 in english](/docs/project_description.md#-os2id---identity-and-accessmanagent)
+### 🗂️ Project description - [🇬🇧 in english](/docs/project_description.md#-os2id---identity-and-accessmanagent) -   [🇩🇰 in danish](/docs/project_description.md#-os2id---identitets--og-adgangsstyring)
   
-  [🇩🇰 in danish](/docs/project_description.md#-os2id---identitets--og-adgangsstyring)
-  
-  [🧩 High level architecture](/docs/High_Level_Architecture.md)
+### [🧩 High level architecture diagram](/docs/High_Level_Architecture.md)
  
+### [🚀 Getting Started guide](/docs/GETTING_STARTED.md)
+
 ---
 🎁 [How to contribute](CONTRIBUTING.md)
 
