@@ -5,26 +5,25 @@
 > [!CAUTION]
 > (only for older "OCES2" explanation TBD)???
 
-3. **Register as a Provider with KOMBIT** : To use Fælleskommunal Adgangstyring(FA) one must first register as a service provider with KOMBIT. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
-
+3. **Register as a Provider** : To use Fælleskommunal Adgangstyring(FA) one must first register as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
 > [!CAUTION]
 > (how? mail? self service? guide TBD)
 
 4. **Register and configure IT System** : Now you can use the credentials recieved, to log in to Fælleskommunale Administrationsmodul (FKAM) and configure your IT system in Fælleskomunal Infrastruktur (FKi)
 
-   🔗 Fælleskommunale Administrationsmodul Web access: 
+   🔗 Fælleskommunale Administrationsmodul Web access:
    [Test - https://admin-test.serviceplatformen.dk/](https://admin-test.serviceplatformen.dk/)
    [Prod - https://admin.serviceplatformen.dk/](https://admin.serviceplatformen.dk/)
-   
-   
 
    📖 Read more:
 
    [docs.kombit.dk - Brugervejledning til Administrationsmodulerne for
    leverandører](https://docs.kombit.dk/id/3921b1af "docs.kombit.dk") (🇩🇰 in Danish)
-5. 
-6. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
 
+   ⏯️ Video guide:
+   [Vejledning - Tilslut brugervendt system](https://vimeo.com/484429700#t=187s "vimeo.com")  (🇩🇰 in Danish, last updated Friday, November 27, 2020)
+
+5. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
 > [!CAUTION]
 > (howto TBD)
 
