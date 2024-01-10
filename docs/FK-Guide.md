@@ -10,17 +10,17 @@
 > [!CAUTION]
 > (how? mail? self service? guide TBD)
 
-4. **Configure IT Systems in FKAM** : IT systems can be configured in the Faelleskommunale Administrationsmodul (FKAM) - Here is how
+4. **Configure IT Systems in FKAM** : IT systems can be configured in the Faelleskommunale Administrationsmodul (FKAM)
+   📖 Read more:
 
-> [!CAUTION]
-> (external guide tbd)
+- [docs.kombit.dk - Brugervejledning til Administrationsmodulerne for
+  leverandører](https://docs.kombit.dk/id/3921b1af "docs.kombit.dk") (🇩🇰 in Danish)
 
-5. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
+5. 
+6. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
 
 > [!CAUTION]
 > (howto TBD)
-
-
 
 ## 💬 FAQ
 
@@ -33,7 +33,16 @@
 - [Digitaliseringskataloget - Hvad er den fælleskommunale infrastruktur](https://digitaliseringskataloget.dk/om-den-f%C3%A6lleskommunale-infrastruktur "digitaliseringskataloget.dk") (🇩🇰 in Danish)
 - [Digitaliseringsstyrelsen - OIOSAML 3](https://digst.dk/it-loesninger/nemlog-in/anvendelse/oiosaml-3/ "digst.dk") (🇩🇰 in Danish)
 
-#### What is the Context Handler?
+
+#### What is Fælleskommunalt Administrationsmodul (FKAM)?
+
+*The FKAM administrative module allows IT providers to register and maintain IT systems with FKi, enter service agreements, maintain job function roles and extract IT system reports*
+
+*📖 Read more:*
+
+- [Digitaliseringskataloget - Fælleskommunalt Administrationsmodul](https://digitaliseringskataloget.dk/l%C3%B8sninger/administrationsmodul "digitaliseringskataloget.dk") (🇩🇰 in Danish)
+
+What is the Context Handler?
 
 *The Context Handler is a proxy-service in front of your Identity Provider (IdP) that improves the efficiency, speed, security and flexibility of login requests to your application.*
 
