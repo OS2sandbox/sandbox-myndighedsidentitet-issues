@@ -1,9 +1,17 @@
 ## Step-by-Step Guide
 
-1. **Obtain a Certificate** : For every IT-system connected to the Faelleskommunale Infrastruktur (FKI) a certificate is needed. To order *do this* (https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) or order from NETS [!CAUTION](only for older "OCES2" explanation TBD)???
-2. **Register as a Provider with KOMBIT** : To use Fælleskommunal Adgangstyring(FA) one must first register as a service provider with KOMBIT. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM). [!CAUTION](how? mail? self service? guide TBD)
-3. **Configure IT Systems in FKAM** : IT systems can be configured in the Faelleskommunale Administrationsmodul (FKAM) - Here is how [!CAUTION](external guide tbd)
-4. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration. [!CAUTION](howto TBD)
+1. **Obtain a Certificate** : For every IT-system connected to the Faelleskommunale Infrastruktur (FKI) a certificate is needed. To order *do this* (https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) or order from NETS
+> [!CAUTION]
+> (only for older "OCES2" explanation TBD)???
+3. **Register as a Provider with KOMBIT** : To use Fælleskommunal Adgangstyring(FA) one must first register as a service provider with KOMBIT. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
+> >
+> [!CAUTION](how? mail? self service? guide TBD)
+4. **Configure IT Systems in FKAM** : IT systems can be configured in the Faelleskommunale Administrationsmodul (FKAM) - Here is how
+> [!CAUTION]
+> (external guide tbd)
+5. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
+> [!CAUTION]
+> (howto TBD)
 
 ## FAQ
 
