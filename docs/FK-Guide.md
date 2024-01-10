@@ -10,12 +10,18 @@
 > [!CAUTION]
 > (how? mail? self service? guide TBD)
 
-4. **Configure IT Systems in FKAM** : IT systems can be configured in the Faelleskommunale Administrationsmodul (FKAM)
+4. **Register and configure IT System** : Now you can use the credentials recieved, to log in to Fælleskommunale Administrationsmodul (FKAM) and configure your IT system in Fælleskomunal Infrastruktur (FKi)
+
+   🔗 Fælleskommunale Administrationsmodul Web access: 
+   [Test - https://admin-test.serviceplatformen.dk/](https://admin-test.serviceplatformen.dk/)
+   [Prod - https://admin.serviceplatformen.dk/](https://admin.serviceplatformen.dk/)
+   
+   
+
    📖 Read more:
 
-- [docs.kombit.dk - Brugervejledning til Administrationsmodulerne for
-  leverandører](https://docs.kombit.dk/id/3921b1af "docs.kombit.dk") (🇩🇰 in Danish)
-
+   [docs.kombit.dk - Brugervejledning til Administrationsmodulerne for
+   leverandører](https://docs.kombit.dk/id/3921b1af "docs.kombit.dk") (🇩🇰 in Danish)
 5. 
 6. **Establish Trust and Define SAML Configuration** : Establish trust with your service provider and define the SAML configuration.
 
@@ -32,7 +38,6 @@
 
 - [Digitaliseringskataloget - Hvad er den fælleskommunale infrastruktur](https://digitaliseringskataloget.dk/om-den-f%C3%A6lleskommunale-infrastruktur "digitaliseringskataloget.dk") (🇩🇰 in Danish)
 - [Digitaliseringsstyrelsen - OIOSAML 3](https://digst.dk/it-loesninger/nemlog-in/anvendelse/oiosaml-3/ "digst.dk") (🇩🇰 in Danish)
-
 
 #### What is Fælleskommunalt Administrationsmodul (FKAM)?
 
