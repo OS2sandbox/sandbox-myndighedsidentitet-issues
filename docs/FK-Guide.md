@@ -26,7 +26,7 @@ Before your organization can use Fælleskommunal Adgangstyring (FA), you need to
 
 ## 3. Register and configure IT System
 
-Now you can use the credentials recieved, to log in to teh Fælleskommunale Administrationsmodul(FKAM) webportal and configure your IT system in Fælleskomunal Infrastruktur(FKi)
+Now you can use the credentials recieved, to log in to the administration webportal Fælleskommunalt Administrationsmodul(FKAM) and configure your IT system in Fælleskomunal Infrastruktur(FKi)
 
 ### 🔗 FKAM Web Portal acess
 
