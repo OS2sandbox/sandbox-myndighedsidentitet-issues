@@ -2,6 +2,9 @@
 
 ## 1. Obtain a Certificate
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
 [!CAUTION] section not done
 >
 >Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
