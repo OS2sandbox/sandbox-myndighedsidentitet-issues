@@ -1,42 +1,45 @@
-## 👣 Step-by-Step Guide
+# 👣 Step-by-Step Guide
 
-### 1. Obtain a Certificate:
+## 1. Obtain a Certificate
 
- *For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this (https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) or order from NETS*
+> [!CAUTION] section not done
+>
+>Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
 
-> [!CAUTION]
-> (is NETS method only for older "OCES2" - is the midtid erhverv valid? TBD)???
+*For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this [MitID Erhverv support](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) (or order from NETS??)*
 
-### 2. Sign up as a service provider:
+## 2. Sign up as a service provider
 
- *Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).*
+> [!CAUTION] section not done
+>
+> (how is access requested?)
 
-> [!CAUTION]
-> (how? guide TBD)
+*Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).*
 
-### 3. Register and configure IT System:
+## 3. Register and configure IT System
 
- *Now you can use the credentials recieved, to log in to teh Fælleskommunale Administrationsmodul(FKAM) webportal and configure your IT system in Fælleskomunal Infrastruktur(FKi)*
+*Now you can use the credentials recieved, to log in to teh Fælleskommunale Administrationsmodul(FKAM) webportal and configure your IT system in Fælleskomunal Infrastruktur(FKi)*
 
-   🔗 FKAM Web Portal acess:
+### 🔗 FKAM Web Portal acess
 
 > [Test - https://admin-test.serviceplatformen.dk/](https://admin-test.serviceplatformen.dk/)
 >
 > [Prod - https://admin.serviceplatformen.dk/](https://admin.serviceplatformen.dk/)
 
-   📖 User guides:
+### 📖 User guides
 
 > [Brugervejledning for
 > leverandører - docs.kombit.dk](https://docs.kombit.dk/id/3921b1af "docs.kombit.dk") (🇩🇰 in Danish)
 >
 > [Video guide - Tilslut brugervendt system](https://vimeo.com/484429700#t=187s "vimeo.com") (🇩🇰 in Danish, old video guide from 2020)
 
-### 4. Establish Trust and Define SAML Configuration:
+### 4. Establish Trust and Define SAML Configuration
+
+> [!CAUTION] section not done
+>
+>(How is this done?)
 
  *Establish trust with your service provider and define the SAML configuration.*
-
-> [!CAUTION]
-> (howto TBD)
 
 <br>
 
