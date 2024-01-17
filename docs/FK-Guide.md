@@ -6,7 +6,7 @@
 >
 >Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
 
-*For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this [MitID Erhverv support](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) (or order from NETS??)*
+For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this [MitID Erhverv support](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) (or order from NETS??)
 
 ## 2. Sign up as a service provider
 
@@ -14,11 +14,11 @@
 >
 > (how is access requested?)
 
-*Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).*
+Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
 
 ## 3. Register and configure IT System
 
-*Now you can use the credentials recieved, to log in to teh Fælleskommunale Administrationsmodul(FKAM) webportal and configure your IT system in Fælleskomunal Infrastruktur(FKi)*
+Now you can use the credentials recieved, to log in to teh Fælleskommunale Administrationsmodul(FKAM) webportal and configure your IT system in Fælleskomunal Infrastruktur(FKi)
 
 ### 🔗 FKAM Web Portal acess
 
@@ -39,9 +39,7 @@
 >
 >(How is this done?)
 
- *Establish trust with your service provider and define the SAML configuration.*
-
-<br>
+Establish trust with your service provider and define the SAML configuration.
 
 ## 💬 FAQ
 
@@ -60,7 +58,7 @@ FKa is based on OIOSAML, a specialized configuration of the SAML protocol.*
 
 ### What is Fælleskommunalt Administrationsmodul (FKAM)?
 
-*The FKAM administrative module is a webportal that allows service providers to register and maintain applications with FKi, enter service agreements, maintain job function roles and extract IT system reports*
+The FKAM administrative module is a webportal that allows service providers to register and maintain applications with FKi, enter service agreements, maintain job function roles and extract IT system reports
 
 📖 Read more:
 
@@ -68,7 +66,7 @@ FKa is based on OIOSAML, a specialized configuration of the SAML protocol.*
 
 ### What is the Context Handler?
 
-*The Context Handler is a proxy-service in front of your Identity Provider (IdP) that secures login requests from the user organization to the application or "IT system" re*
+The Context Handler is a proxy-service in front of your Identity Provider (IdP) that secures login requests from the user organization to the application or "IT system" re
 
 📖 Read more:
 
