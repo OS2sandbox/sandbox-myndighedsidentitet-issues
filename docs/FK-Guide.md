@@ -2,20 +2,16 @@
 
 ## 1. Obtain a Certificate
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
 
-[!CAUTION] section not done
->
->Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
+> [!IMPORTANT]  
+> Section not done - Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
 
 For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this [MitID Erhverv support](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) (or order from NETS??)
 
 ## 2. Sign up as a service provider
 
-> [!CAUTION] section not done
->
-> (how is access requested?)
+> [!IMPORTANT]  
+> Section not done - How is this acces requested?
 
 Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
 
@@ -38,9 +34,8 @@ Now you can use the credentials recieved, to log in to teh Fælleskommunale Admi
 
 ### 4. Establish Trust and Define SAML Configuration
 
-> [!CAUTION] section not done
->
->(How is this done?)
+> [!IMPORTANT]  
+> Section not done - how to establish the trust - screenshots?
 
 Establish trust with your service provider and define the SAML configuration.
 
