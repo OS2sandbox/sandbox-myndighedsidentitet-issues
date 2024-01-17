@@ -6,7 +6,16 @@
 > [!IMPORTANT]  
 > Section not done - Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
 
-For every IT-system connected to Fælleskommunal Infrastruktur (FKI) a certificate is needed. To order do this [MitID Erhverv support](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/) (or order from NETS??)
+To verify ownership of your IT-system and secure communications between it and Fælleskommunal Infrastruktur (FKI) a certificate is needed.
+
+To order a certificate for your system, [log in to MitID Erhverv](https://mitid-erhverv.dk) and follow the guide linked below.
+
+### 🔗 Links
+> [MitID Erhverv - Login](https://mitid-erhverv.dk)
+>
+> [MitID Erhverv support - Guide for ordering a certificate ](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/)
+
+ (or order from NETS??)
 
 ## 2. Sign up as a service provider
 
