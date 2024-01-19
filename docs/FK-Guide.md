@@ -59,7 +59,11 @@ Log in to the administration webportal Fælleskommunalt Administrationsmodul(FKA
 > [!IMPORTANT]  
 > Section not done - how to establish the trust - screenshots?
 
-Establish trust with your service provider and define the SAML configuration.
+In order to authenticate via FKIS you must first register your Service Provider (SP) and establish SAML Trust between your SP and the Context Handler (IdP). Trust is established by exchanging SAML metadata between IdP and SP.
+The metadata is typically generated automtically by your SAML framework, based upon your configuration. The metadata contains infomration such the ID of your service provider, the URL where authentication SAMLRequests are sent, the "Assertion Consumer Service" url where the SAMLResponses should be returned, which user attributes are requested, certificate information for use in signing and encrypting the SAMLRequest and more. An example of how your SP metadata should look like can be found on the [introduktionside](https://digitaliseringskataloget.dk/l%C3%B8sninger/adgangsstyring-brugere) under "Vejledninger" and "[Eksempel: metadata for brugervendt system](https://digitaliseringskatalog.dk/sites/default/files/2020-05/Brugervendt%20system%20metadata%20eksempel.xml)". Please note that all endpoints included in the metadata require that you use HTTPS, else FKIS will __not__ accept the metadata.
+
+When you have generated your metadata sign in to the administration module ... (more to come)
+
 
 ## 💬 FAQ
 
