@@ -20,13 +20,14 @@ To order a certificate for your system, [log in to MitID Erhverv](https://mitid-
 ## 2. Sign up as a service provider
 
 > [!IMPORTANT]  
-> Section not done - How is this acces requested?
+> Section not done - Need more info on employee access rights management in MitID erhverv.
 
-Before your organization can use Fælleskommunal Adgangstyring (FA), you need to sign up as a service provider. After registering, you can request acces to use the Faelleskommunale Administrationsmodul (FKAM).
+Before you can use Fælleskommunal Adgangstyring (FA), your Company / Municipality needs to sign up. This can be done at Digitaliserings Kataloget's site [Oprette organisation i det Fælleskommunale Administrationsmodul](https://digitaliseringskataloget.dk/oprette-organisation-i-det-faelleskommunale-administrationsmodul). Do pay in mind, that signing up to use FA entails an __administration fee__. Information regarding price, and more, can be found on the sign-up page. After registration and subsequent approval from KOMBIT, sign-in to the Administration module will happend throught MitID. Any employee that needs to access the administration module, will need to be granted the right access level by an administrator of the company, which is managed through MitID erhverv
+
 
 ## 3. Register and configure IT System
 
-Now you can use the credentials recieved, to log in to the administration webportal Fælleskommunalt Administrationsmodul(FKAM) and configure your IT system in Fælleskomunal Infrastruktur(FKi)
+Log in to the administration webportal Fælleskommunalt Administrationsmodul(FKAM), using MitID, and configure your IT system in Fælleskomunal Infrastruktur(FKi)
 
 ### 🔗 FKAM Web Portal acess
 
