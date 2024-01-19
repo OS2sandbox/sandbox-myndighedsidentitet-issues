@@ -24,6 +24,20 @@ To order a certificate for your system, [log in to MitID Erhverv](https://mitid-
 
 Before you can use Fælleskommunal Adgangstyring (FA), your Company / Municipality needs to sign up. This can be done at Digitaliserings Kataloget's site [Oprette organisation i det Fælleskommunale Administrationsmodul](https://digitaliseringskataloget.dk/oprette-organisation-i-det-faelleskommunale-administrationsmodul). Do pay in mind, that signing up to use FA entails an __administration fee__. Information regarding price, and more, can be found on the sign-up page. After registration and subsequent approval from KOMBIT, sign-in to the Administration module will happend throught MitID. Any employee that needs to access the administration module, will need to be granted the right access level by an administrator of the company, which is managed through MitID erhverv
 
+# Oprette organisation i det fælleskommunale administrationsmodul
+
+This is a digital service that allows you to create and manage your own organization in the common municipal administration system, which is used by all municipalities in Denmark. The service is intended for municipal employees who need to create or update their organization's information, such as name, address, contact details, budget, etc.
+
+## How to use the service
+
+To use the service, you need to follow these steps:
+
+1. Log in to the common municipal administration system with your username and password. You can access the system from this link: [Administrationsmodul].
+2. On the main page, click on the **Organisation** tab on the left side menu. This will open a list of all the existing organizations in the system.
+3. To create a new organization, click on the **Opret ny organisation** button at the top right corner of the page. This will open a form where you can enter the details of your organization.
+4. Fill in the required fields, such as **Navn** (Name), **Adresse** (Address), **Telefon** (Phone), **E-mail** (Email), etc. You can also add optional fields, such as **Beskrivelse** (Description), **Budget** (Budget), **Mål** (Goals), etc.
+5. When you are done, click on the **Gem** button at the bottom of the form. This will save your organization and add it to the list of organizations in the system.
+6. To edit or delete your organization, you can click on the **Rediger** or **Slet** buttons next to your organization's name in the list.
 
 ## 3. Register and configure IT System
 
