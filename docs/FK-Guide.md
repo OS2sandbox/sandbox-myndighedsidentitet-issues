@@ -4,7 +4,7 @@
 
 
 > [!IMPORTANT]  
-> Section not done - Is NETS method only for older "OCES2" - is the midtid erhverv valid for OCES3 and Contexthandler2?
+> Section not done - Add info about cost and billing
 
 To verify ownership of your IT-system and secure communications between it and Fælleskommunal Infrastruktur (FKI) a certificate is needed.
 
@@ -15,9 +15,7 @@ To order a certificate for your system, [log in to MitID Erhverv](https://mitid-
 >
 > [MitID Erhverv support - Guide for ordering a certificate ](https://mitid-erhverv.dk/support/vejledning/anvendelse/brugeradministrator/certifikater/bestil-et-organisationscertifikat/)
 
- (or order from NETS??)
-
-## 2. Sign up as a service provider
+ ## 2. Sign up as a service provider
 
 > [!IMPORTANT]  
 > Section not done - Need more info on employee access rights management in MitID erhverv.
