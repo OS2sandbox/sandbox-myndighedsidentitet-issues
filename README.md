@@ -2,6 +2,10 @@
 ## Identity management based on open standards
 
 A modern identity and access management project, built for the cloud that provides Single Sign-On across OS2 delivered web-services.
+### 🗓️ Roadmap
+Check out where we are, what issues we are working on and when we estimate we are done with the defined milestones:
+
+[Roadmap with milestones and due dates](https://github.com/OS2lab/os2ID/milestones?direction=desc&sort=completeness&state=open)
 
 ### 🔀 Dataflow
 
