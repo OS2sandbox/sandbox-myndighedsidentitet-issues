@@ -23,8 +23,9 @@ To order a certificate for your system, [log in to MitID Erhverv](https://mitid-
 Registering your organisation as a service provider in Fælleskommunal Infrastruktur (FKI) is done by filling out the order form located here: 
 [Oprette organisation i det Fælleskommunale Administrationsmodul](https://digitaliseringskataloget.dk/oprette-organisation-i-det-faelleskommunale-administrationsmodul)
 
+Information regarding price, and more, can be found on the sign-up page. 
 
-Before you can use Fælleskommunal Adgangstyring (FA), your Company / Municipality needs to sign up. This can be done at Digitaliserings Kataloget's site [Oprette organisation i det Fælleskommunale Administrationsmodul](https://digitaliseringskataloget.dk/oprette-organisation-i-det-faelleskommunale-administrationsmodul). Do pay in mind, that signing up to use FA entails an __administration fee__. Information regarding price, and more, can be found on the sign-up page. After registration and subsequent approval from KOMBIT, sign-in to the Administration module will happend throught MitID. Any employee that needs to access the administration module, will need to be granted the right access level by an administrator of the company, which is managed through MitID erhverv
+After registration and subsequent approval from KOMBIT, sign-in to the Administration module will happend throught MitID. Any employee that needs to access the administration module, will need to be granted the right access level by an administrator of the company, which is managed through MitID erhverv
 
 # Oprette organisation i det fælleskommunale administrationsmodul
 
