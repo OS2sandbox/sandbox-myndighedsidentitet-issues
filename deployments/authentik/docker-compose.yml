@@ -42,19 +42,22 @@ services:
       AUTHENTIK_POSTGRESQL__NAME: ${PG_DB:-authentik}
       AUTHENTIK_POSTGRESQL__PASSWORD: ${PG_PASS}
     volumes:
+      - /home/nicolas/os2ID/deployments/authentik/modifications/metadata.py:/authentik/sources/saml/processors/metadata.py
+      - /home/nicolas/os2ID/deployments/authentik/modifications/response.py:/authentik/sources/saml/processors/response.py
       - ./media:/media
       - ./custom-templates:/templates
     env_file:
       - .env
     ports:
-      - "${COMPOSE_PORT_HTTP:-9000}:9000"
-      - "${COMPOSE_PORT_HTTPS:-9443}:9443"
+      - "80:9000"
+      #- "${COMPOSE_PORT_HTTPS:-9443}:9443"
     depends_on:
       - postgresql
       - redis
   worker:
     image: ${AUTHENTIK_IMAGE:-ghcr.io/goauthentik/server}:${AUTHENTIK_TAG:-2023.10.4}
-    restart: unless-stopped
+    #image: fkis-mod:latest
+    restart: always
     command: worker
     environment:
       AUTHENTIK_REDIS__HOST: redis
