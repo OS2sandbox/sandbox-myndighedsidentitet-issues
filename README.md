@@ -7,6 +7,9 @@ Check out where we are, what issues we are working on and when we estimate we ar
 
 [Roadmap with milestones and due dates](https://github.com/OS2lab/os2ID/milestones?direction=desc&sort=completeness&state=open)
 
+## Based on upstream project:
+https://github.com/OS2sandbox/sandbox-myndighedsidentitet-authentik
+
 ### 🔀 Dataflow
 
 ```mermaid
