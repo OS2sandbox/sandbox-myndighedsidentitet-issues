@@ -1,7 +1,8 @@
 # 🪪 sandbox-myndighedsidentitet
 ## Identity management based on open standards
 
-A modern identity and access management project, built for the cloud that provides Single Sign-On across OS2 delivered web-services.
+Open source identity and sso provider that prioritizes security and control of your most sensitive data.
+
 ### 🗓️ Roadmap
 Check out where we are, what issues we are working on and when we estimate we are done with the defined milestones:
 
