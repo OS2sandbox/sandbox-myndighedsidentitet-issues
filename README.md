@@ -3,6 +3,8 @@
 
 Open source identity and sso provider that prioritizes security and control of your most sensitive data.
 
+The upstream project [Authentik](https://github.com/goauthentik/authentik/) has been chosen as the core, because of its loosely coupled design, ability to bridge legacy protocols to modern equivalents like OpenID Connect and its focus on reusing standard stack components like standard database and cache solutions.  
+
 ### 🗓️ Roadmap
 Check out where we are, what issues we are working on and when we estimate we are done with the defined milestones:
 
