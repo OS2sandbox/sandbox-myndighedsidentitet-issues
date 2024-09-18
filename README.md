@@ -1,14 +1,25 @@
 # 🪪 sandbox-myndighedsidentitet
-## Identity management based on open standards
+*Identity management based on open standards*
+---
+The upstream project [Authentik](https://github.com/goauthentik/authentik/) has been chosen as the core upstream component for this solution.
 
-Open source identity and sso provider that prioritizes security and control of your most sensitive data.
+### 🅰️ Why Authentik?
+*Authentik is an Open source identity and sso provider that prioritizes security and control of your most sensitive data.*
 
-The upstream project [Authentik](https://github.com/goauthentik/authentik/) has been chosen as the core, because of its loosely coupled design, ability to bridge legacy protocols to modern equivalents like OpenID Connect and its focus on reusing standard stack components like standard database and cache solutions.  
+##### Design and Integration
+Authentik is designed around a loosely coupled design, and has built in abilities to bridge legacy protocols to modern equivalents like OpenID Connect. Its focus on reusing modern standard stack components such as databases and cache solutions makes it a strong choice for an upstream Open Source solution.
 
-Using Authentik reduces the need for extensive in-house coding and maintenance and simplifies development by providing ready-made, secure authentication and authorization. This approach aims to  free developers to focus on core business functionalities instead of reinventing general infrastructure components. 
+##### Developer Efficiency
+Using Authentik reduces the need for extensive in-house coding and maintenance and simplifies development by providing ready-made, secure authentication and authorization. This approach frees developers to focus on core business functionalities instead of reinventing and maintaining general infrastructure components.
 
-Adopting Authentik makes it possible to cuts costs and ensure compliance with industry standards, enhancing overall security and reliability. Continuous updates from the open source community ensures that the business can adapt quickly to evolving security requirements and get the benefits from a large community of specialists that contribute to the project.
+##### Cost and Compliance
+Adopting Authentik cuts development and maintenance costs and ensures compliance with industry standards, enhancing overall security and reliability.
 
+##### Community and Support
+[Continuous updates from the open source community](https://github.com/goauthentik/authentik/pulse) ensure that the business can adapt quickly to evolving security requirements and benefit from the expertise of a large community of specialists contributing to the project.
+
+##### Security
+Authentik’s security measures include thorough pentesting, [responsible disclosure policies](https://github.com/goauthentik/authentik/security), and [continuous updates to address vulnerabilities](https://github.com/goauthentik/authentik/pulse). These robust practices ensure a high level of trust and compliance, minimizing potential security breaches and reducing associated downstream maintenance and patching costs.
 
 
 ### 🗓️ Roadmap
