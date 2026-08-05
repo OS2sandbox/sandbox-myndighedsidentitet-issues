@@ -10,6 +10,12 @@
 
 Currently a deployment-blueprint is being buit here: https://github.com/OS2sandbox/os2adgang-blueprint/
 
+
+## Status update 05 aug 2026:
+Currently the development have moved out of the sandbox and is begin maintained by the Os2ai project here:
+https://github.com/os2ai/adgangskomponent
+If an organisation can agree on picking up the common maintainance, we hope it can find its way back into this initial repo.
+
 ## 🔀 Dataflow
 
 ```mermaid
