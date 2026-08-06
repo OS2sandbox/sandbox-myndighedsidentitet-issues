@@ -1,5 +1,6 @@
 # 🪪 OS2Adgang
 *Identity management based on open standards*
+ > 📖 - A well written article summarizing key points this project have been through, before making the decision to go with a loosely-coupled architecture: [No more Built-In Auth!](https://punkt.de/en/blog/2025/why-you-should-always-prefer-an-iam-like-keycloak-to-build-in-authentication.html)
 ---
 
 ## Status update 05 jan 2026:
@@ -8,13 +9,14 @@
 - 0.9 will see a shift towards the [CNCF certified KeyCloak project](https://www.cncf.io/projects/keycloak/), with a possible option of keeping Authentik as a "lite" "non-federated" solution .. but this is not decided yet.
   We need a maintainer/core team model for this approach - currently this work is sponsored by the os2ai community and work being done by @hypesystem / Deranged. Follow the progress in this issue: https://github.com/OS2sandbox/os2adgang-planning/issues/89
 
-Currently a deployment-blueprint is being buit here: https://github.com/OS2sandbox/os2adgang-blueprint/
+Currently a deployment-blueprint is being worked on here: https://github.com/OS2sandbox/os2adgang-blueprint/
 
 
 ## Status update 05 aug 2026:
 Currently the development have moved out of the sandbox and is begin maintained by the Os2ai project here:
 https://github.com/os2ai/adgangskomponent
-If an organisation can agree on picking up the common maintainance, we hope it can find its way back into this initial repo.
+If an organization can agree on picking up the common maintenance, we hope it can find its way back into this initial repo.
+
 
 ## 🔀 Dataflow
 
